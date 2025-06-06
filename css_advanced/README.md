@@ -47,7 +47,7 @@ Please ensure you have duplicated the Figma file to your drafts to access all de
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RebiLee001/alx_html_css.git
+   git clone https://github.com/amadibethel/alx_html_css.git
    cd alx_html_css/css_advanced
 
 🧩 Features Implemented
@@ -67,11 +67,10 @@ Design responsiveness is achieved using the .works_on_smartphone class and the <
 Images and logos are loaded as per Figma specification.
 
 🧑‍💻 Author
-Rebi Edward Akpa
-Frontend Developer & Legal Practitioner
+Bethel Amadi
+Frontend Developer
 Portfolio (Coming Soon)
-Email: rebifaizahedwardakpa@gmail.com
-
+Email: amadi_bethel@icloud.com
 ✅ Acknowledgments
 ~ ALX SE Team for project outlineAdd commentMore actions
 ~ Figma for the design file
